@@ -1,6 +1,6 @@
 # DbGate on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/CTcF_S?utm_medium=integration&utm_source=button&utm_campaign=dbgate)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/dbgate-1?utm_medium=integration&utm_source=button&utm_campaign=dbgate)
 
 Railway template for [DbGate](https://github.com/dbgate/dbgate), a web database client for PostgreSQL, MySQL, MariaDB, SQL Server, MongoDB, Redis, SQLite and more.
 
