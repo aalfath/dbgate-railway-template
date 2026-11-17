@@ -3,6 +3,12 @@
 Each entry is one version of this Railway template. Breaking changes are listed first.
 Read the entry before you apply an update in Railway.
 
+## 7.3.6-1 (2026-11-17)
+
+- No breaking changes. Saved connections and settings on the `/root/.dbgate` volume are kept.
+- DbGate [7.3.6](https://github.com/dbgate/dbgate/releases/tag/v7.3.6) (maintenance release).
+- Image: `dbgate/dbgate:7.3.6@sha256:adb32bb7e0de948d1ffccbc9639014741e1f6d750f7fddd800af651777922953`.
+
 ## 7.3.5-2 (2026-11-15)
 
 - README: the Deploy on Railway button links to the published template (`dbgate-1`). No change to the running service.
