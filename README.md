@@ -7,7 +7,7 @@ Railway template for [DbGate](https://github.com/dbgate/dbgate), a web database 
 ## What it deploys
 
 - **DbGate**, built from this repo's `Dockerfile`:
-  - DbGate **7.3.5**, the official image pinned by digest: `dbgate/dbgate:7.3.5@sha256:e88589ff45f5de78ceb0925af8da693d112d0e6c9a5647f5e9e19ceb590dc1d5`.
+  - DbGate **7.3.6**, the official image pinned by digest: `dbgate/dbgate:7.3.6@sha256:adb32bb7e0de948d1ffccbc9639014741e1f6d750f7fddd800af651777922953`.
   - A Railway volume at `/root/.dbgate` for settings, saved connections, scripts and archives.
   - A Railway domain, health check `/health` and restart on failure, set in the Railway template (this repo has no `railway.json`).
 - **Postgres**: Railway's own Postgres 18 with its volume, reachable only over the private network.
